@@ -1,10 +1,10 @@
-# ChatGPT Hallucination Checker 🚀
+# ChatGPT Hallucination Checker
 
 This project is a **Chrome Extension** that detects **hallucinations in ChatGPT responses** by fact-checking with **Wikipedia & DuckDuckGo APIs**, and evaluating **factual consistency using a Natural Language Inference (NLI) model**.
 
 ---
 
-## 🌟 Features
+## Features
 ✅ **Real-time ChatGPT Monitoring** - Captures responses automatically.  
 ✅ **Fact Checking** - Uses **Wikipedia & DuckDuckGo** to verify claims.  
 ✅ **Hallucination Score** - Detects contradictions with an **NLI model**.  
@@ -34,7 +34,7 @@ chatgpt-hallucination-checker/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### **🔹 1️⃣ Install the Chrome Extension**
 1. Open **Chrome** and go to `chrome://extensions/`.
@@ -61,7 +61,7 @@ chatgpt-hallucination-checker/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Chrome Extensions** (JavaScript, HTML, CSS)
 - **Flask (Python Backend)**
 - **Wikipedia API & DuckDuckGo API** (Fact-checking)
@@ -70,7 +70,7 @@ chatgpt-hallucination-checker/
 
 ---
 
-## 🐞 Troubleshooting
+##  Troubleshooting
 ### **🔹 Flask API Issues**
 - If you get **CORS errors**, ensure Flask is running with:
   ```python
